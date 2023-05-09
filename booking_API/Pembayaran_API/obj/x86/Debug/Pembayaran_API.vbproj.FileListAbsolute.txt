@@ -1,0 +1,13 @@
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\bin\Debug\Pembayaran_API.exe
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\bin\Debug\Pembayaran_API.pdb
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\bin\Debug\Pembayaran_API.xml
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\bin\Debug\Newtonsoft.Json.dll
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\bin\Debug\Newtonsoft.Json.pdb
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\bin\Debug\Newtonsoft.Json.xml
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\obj\x86\Debug\Pembayaran_API.vbprojResolveAssemblyReference.cache
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\obj\x86\Debug\Pembayaran_API.Form1.resources
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\obj\x86\Debug\Pembayaran_API.Resources.resources
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\obj\x86\Debug\Pembayaran_API.vbproj.GenerateResource.Cache
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\obj\x86\Debug\Pembayaran_API.exe
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\obj\x86\Debug\Pembayaran_API.xml
+c:\users\m fauzan aqil\documents\visual studio 2010\Projects\Pembayaran_API\Pembayaran_API\obj\x86\Debug\Pembayaran_API.pdb
